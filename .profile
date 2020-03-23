@@ -1,0 +1,4 @@
+export para_mail_host=$MAILGUN_SMTP_SERVER
+export para_mail_port=$MAILGUN_SMTP_PORT
+export para_mail_username=$MAILGUN_SMTP_LOGIN
+export para_mail_password=$MAILGUN_SMTP_PASSWORD
